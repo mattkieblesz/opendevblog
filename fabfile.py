@@ -13,7 +13,7 @@ DEPLOY_PATH = env.deploy_path
 
 # Remote server configuration
 production = 'ubuntu@52.209.82.155:22'
-dest_path = '/var/www'
+dest_path = '/var/www/opendevblog.com/public_html'
 
 # Rackspace Cloud Files configuration settings
 env.cloudfiles_username = 'my_rackspace_username'
@@ -85,7 +85,7 @@ def publish():
         local_dir=DEPLOY_PATH.rstrip('/') + '/',
         delete=True,
         extra_opts='-c',
-    )
+        )
 
 def gh_pages():
     """Publish to GitHub Pages"""

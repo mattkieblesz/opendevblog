@@ -5,15 +5,15 @@ Authors: Matt Kieblesz
 
 This article is going to provide whys and hows of pair programming. Mind you, I don't have years of experience in this, but I happen to have few suggestions (REALLY, just a few) which will make dramatic difference in handling your day to day operations in your programming experience. These suggestions worked for me, so they can work for you too.
 
-So why everyone is talking about benefits of pair programming, but virtually nobody pair programs apart from companies who enforce it from the start, coding events, meetups and workshops?
-
 # Small introduction
+
+So why everyone is talking about benefits of pair programming, but virtually nobody pair programs apart from companies which enforce it from the start, coding events, meetups and workshops?
 
 Many people write a lot about benefits of pair programming, but I believe it's always about simplicity. So if we could boil these benefits down for the purposes of speculation, what is the single best reason to pair together up?
 
 ## FOCUS
 
-The single most important reason of individual's or company's stagnation is **ego** which eats up your attention and the less ego pair programming partners will have the better experience will be, including better work and improved individual skills.
+The single most important reason of individual's or company's stagnation is **ego** which eats up your attention and the less ego the better pair programming experience will be, including better work and improved individual skills.
 
 We have ideas about ourselves how good we are and what we know and this is a block to learning new things because it will mean that we don't have it. Our minds love to feel secure and hate change.
 
@@ -79,7 +79,7 @@ So you are sitting together with your partner. Whether you know him/her or not d
 
 3. Follow up.
 
-    Here you have time to focus on other person, but this is expected, hence less room for resentment to kick in. So after the session follow up with what you think about each other performances. Be tech rather then psych specific. Telling someone that should be more assertive won't do any good, but telling someone to read up few articles or write article on company's blog with his thoughts on the subject they were lacking knowledge on will make him/her assertive.
+    Here you have time to focus on other person, but this is expected, hence less room for resentment to kick in. So after the session follow up with what you think about each other performances. Be tech rather then psych specific. Telling someone to be more assertive won't do any good, but telling someone to read up few articles or write article on company's blog with his thoughts on the subject they were lacking knowledge on will make him/her assertive.
 
 ## Action
 
